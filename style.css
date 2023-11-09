@@ -16,7 +16,7 @@ p{
     height:500px;
     margin: 2px;/*insere um espaçamento exteno ao elemento, ao redor da boda*/
     padding: 2px; /*deine uma distância interna ntre um elemento, ao ror da borda*/
-    border: 0.2rem solid palevioletred;y
+    border: 0.2rem solid palevioletred;
     Border-radius: 20px;
 }
 
