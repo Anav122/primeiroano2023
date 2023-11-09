@@ -12,8 +12,8 @@ p{
     text-align: justify;
 }
 .logo { 
-    width: 500;
-    height:400px;
+    width: 600;
+    height:500px;
     margin: 2px;/*insere um espaçamento exteno ao elemento, ao redor da boda*/
     padding: 2px; /*deine uma distância interna ntre um elemento, ao ror da borda*/
     border: 0.2rem solid palevioletred
@@ -26,4 +26,5 @@ p{
     margin: 10px;
     padding: 3px;
     border: 0.5rem solid palevioletred; 24
-    border-radius:24px
+    border-radius:24px;
+}
