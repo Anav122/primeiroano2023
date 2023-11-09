@@ -2,12 +2,12 @@ body{
     background-color:peachpuff
 }
 h1{ 
-    color:palevioletred
-    font-size: 50px;
+    color:palevioletred;
+font-size: 50px;
     text-align: center;
 }
 p{
-    color:darkviolet
-    font-size: 30px
+    color:darkviolet;
+    font-size: 30px;
     text-align: justify;
 }
