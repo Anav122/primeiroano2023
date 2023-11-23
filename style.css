@@ -25,6 +25,6 @@ p{
     height: 300px;
     margin: 10px;
     padding: 3px;
-    border: 0.5rem solid palevioletred;
+    border: 0.5rem solid rgb(112, 183, 216);
     border-radius:24px;
 }
